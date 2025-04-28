@@ -1,0 +1,15 @@
+*.zip
+*.pyc
+*.mp4
+.DS_Store
+
+# virtual environments
+.venv/
+venv/
+.env/
+env/
+.myenv/
+myenv/  
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
