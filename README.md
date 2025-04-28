@@ -6,6 +6,7 @@
 - Emotion
 
 > Check the `RPi_Mini_Project.pdf` for more details
+
 > Check the `Main` appended files(s) for final execution in each of the `Age_Gender_Detection` or `Emotion_Detection` directories
 
 
